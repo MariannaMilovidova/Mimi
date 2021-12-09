@@ -16,6 +16,8 @@ namespace Mimi
         {
             InitializeComponent();
             MessageBox.Show("tfgyhj");
+            MessageBox.Show("tfgyhj");
+
         }
     }
 }
