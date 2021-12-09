@@ -15,6 +15,7 @@ namespace Mimi
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("tfgyhj");
         }
     }
 }
